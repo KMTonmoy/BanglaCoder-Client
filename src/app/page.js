@@ -1,9 +1,12 @@
+import Hero from '@/Components/Hero'
+import Tonmoy from '@/Components/Tonmoy'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      Hello World
+      <Hero/>
+      <Tonmoy/>
     </div>
   )
 }
