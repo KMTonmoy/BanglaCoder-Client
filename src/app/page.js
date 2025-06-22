@@ -3,7 +3,7 @@ import Curriculum from '@/Components/Curriculum'
 import Hero from '@/Components/Hero'
 import Solve from '@/Components/Solve'
 import WhatProjectYoDO from '@/Components/WhatProjectYoDO'
-import WhatYouLearn from '@/Components/WhatYouLearn'
+ import WhatYouLearn from '@/Components/WhatYouLearn'
 import React from 'react'
 
 const page = () => {
@@ -14,7 +14,7 @@ const page = () => {
       <Curriculum/>
       <Solve/>
       <WhatProjectYoDO/>
-      <AboutAdmin/>
+       <AboutAdmin/>
     </div>
   )
 }
